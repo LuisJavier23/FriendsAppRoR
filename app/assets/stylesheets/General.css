@@ -1,0 +1,34 @@
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+
+.ToastAlertAjust
+{
+
+}
+
+.CardTopAjust
+{
+margin-top: -1em;
+}
+
+td>a {
+   color: #1E7EC8;
+   text-decoration: none; 
+}
+
+a.btn {
+   text-decoration: none !important;
+}
+
+td>a:hover {
+   text-decoration: underline;
+}
